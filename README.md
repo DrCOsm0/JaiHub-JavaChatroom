@@ -10,16 +10,13 @@ Simple Java chatroom with server and client support
 
 ## Package Seperation for Mobility
 
-### P1
+### Package 1
+- Client.java
+- ClientFrame.java
+- ServerThread
 
-===================
-    =   Client        =
-    =   ClientFrame   =
-    =   ServerThread  =
-    ===================
+### Package 2
+- Server.java
+- ServerFrame.java
+- ClientThread.java
 
-    ===================
-    =   Server        =
-    =   ServerFrame   =
-    =   ClientThread  =
-    ===================
