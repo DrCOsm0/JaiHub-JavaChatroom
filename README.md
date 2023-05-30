@@ -1,5 +1,5 @@
 # JavaChatroom
 Simple Java chatroom with server and client support
 
-- Server
+## Server
 -- jsdnflkjsdf
